@@ -31,5 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikkunwar&show_icons=true&locale=en&theme=radical" alt="kartikkunwar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikkunwar&theme=radical" alt="kartikkunwar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikkunwar&theme=synthwave" alt="kartikkunwar" /></p>
 <img width="100%" height = "270em" src="https://kentsustainability.co.uk/wp-content/uploads/2019/08/KS-1.gif" alt="cover" />
